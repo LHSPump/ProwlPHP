@@ -5,8 +5,8 @@
     "keywords": ["api","webservices"],
     "homepage": "https://github.com/xenji/ProwlPHP",
     "license": "Apache 2.0",
-    "authors":"Mario Mueller"
-    "version": "1.0"   
+    "authors":"Mario Mueller",
+    "version": "1.0",  
     "require": {
         "php": ">=5.3.0"
     },
