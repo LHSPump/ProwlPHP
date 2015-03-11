@@ -6,7 +6,7 @@
     "homepage": "https://github.com/xenji/ProwlPHP",
     "license": "Apache 2.0",
     "authors":"Mario Mueller",
-    "version": "1.0",  
+    "version": "1.0.0",  
     "require": {
         "php": ">=5.3.0"
     },
